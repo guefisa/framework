@@ -1,6 +1,6 @@
 # Zero
 Zero es un pequeño framework PHP sobre el que se pueden construir sencillas aplicaciones web.
-Fue creado con caracter general pero posteriormente se utilizó para desarrollar una aplicación web para una inmobiliaria por lo que incorpora algunos módulos para estos propositos.
+Fue creado con caracter general pero posteriormente se utilizó para desarrollar una aplicación web para una inmobiliaria por lo que incorpora algunos componentes para este proposito.
 
 # Requerimientos
 - PHP 5.2.10 +
