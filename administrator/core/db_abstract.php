@@ -1,10 +1,10 @@
 <?php
 	abstract class DBAbstract {
 	
-		private static $db_host = 'localhost';
-		private static $db_user = 'lpzpijih_ctuser';
-		private static $db_pass = 'cont_pass';
-		private static $db_name = 'lpzpijih_cont_db';
+		private static $db_host = ''; // ej: 'localhost'
+		private static $db_user = '';
+		private static $db_pass = '';
+		private static $db_name = '';
 		
 		protected $conn;	// Contiene el objeto que conecta con la DB
 		protected $query;	// Para guardar la consulta SQL a la DB
